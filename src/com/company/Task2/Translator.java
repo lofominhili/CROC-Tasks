@@ -3,7 +3,7 @@ package com.company.Task2;
 public class Translator {
     private double cntBytes;
     private String type;
-    double result;
+    private double result;
 
     public Translator(long input) {
         cntBytes = input;
